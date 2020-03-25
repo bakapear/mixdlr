@@ -1,6 +1,6 @@
 {
   "name": "mixdlr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mixcloud downloader",
   "main": "index.js",
   "dependencies": {
