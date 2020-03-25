@@ -1,0 +1,30 @@
+{
+  "name": "mixdlr",
+  "version": "1.0.0",
+  "description": "mixcloud downloader",
+  "main": "index.js",
+  "dependencies": {
+    "despair": "^2.1.0",
+    "honesty": "^1.2.0",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakapear/mixdlr.git"
+  },
+  "keywords": [
+    "mixcloud",
+    "download",
+    "scrape"
+  ],
+  "author": "bakapear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakapear/mixdlr/issues"
+  },
+  "homepage": "https://github.com/bakapear/mixdlr#readme"
+}
