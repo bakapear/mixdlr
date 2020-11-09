@@ -1,3 +1,7 @@
+### DEPRECATED
+**cleverbot.io is down, so this does not work anymore**
+
+
 # mixdlr
 mixcloud downloader (CLI)
 
