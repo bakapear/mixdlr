@@ -1,5 +1,5 @@
 ### DEPRECATED
-**cleverbot.io is down, so this does not work anymore**
+**This does not work anymore**
 
 
 # mixdlr
